@@ -7,7 +7,6 @@ using InventorySystem.Utils;
 public class Inventory : MonoBehaviour
 {        
 
-    // --->  Next Session :  Nothing :)  -  All Systems Operational. Done. Its fucking done.
 
 
     #region  Events
